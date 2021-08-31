@@ -27,6 +27,6 @@ public class Nave : MonoBehaviour
 	
 	private void OnTriggerEnter2D(Collider2D collision)
 	{
-	Debug.Log("KABKABUM");
+	Debug.Log("BUMKRAKEN");
 	}
 }
